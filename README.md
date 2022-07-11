@@ -1,3 +1,5 @@
+# Sequence Set 
+
 Objective:
     This project is Sets a sequence for set of given numbers (intergers and doubles)
 
